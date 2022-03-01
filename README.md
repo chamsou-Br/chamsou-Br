@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+### Chamsou-Br
 
-
-**chamsou-Br/chamsou-Br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🎓 CS student at esi algiers
 - 🔭 I’m currently working on a big project nchlh
