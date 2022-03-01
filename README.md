@@ -25,6 +25,8 @@
 <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
 </div>
 
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=chamsou-Br)](https://github.com/chamsou-Br)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamsou-Br&layout=compact)](https://github.com/chamsou-Br)
 
 	
 
