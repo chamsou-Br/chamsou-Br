@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
 </div>
 <br /><br />
-<img src=="https://github-readme-stats.vercel.app/api?username=chamsou-Br&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=chamsou-Br&show_icons=true&theme=radical" />
 
 
 	
