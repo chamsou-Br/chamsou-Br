@@ -24,9 +24,9 @@
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=whitee" />
 <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
 </div>
-
+<br /><br />
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=chamsou-Br)](https://github.com/chamsou-Br)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamsou-Br&layout=compact)](https://github.com/chamsou-Br)
+
 
 	
 
