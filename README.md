@@ -9,5 +9,6 @@
 - 📫 How to email me: jc_berkane@esi.dz
 
 <h1>💻 Technical Skills</h1>
-	![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+	
 
