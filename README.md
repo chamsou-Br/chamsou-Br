@@ -8,4 +8,5 @@
 - 💬 If u need something in web dev I would be glad to
 - 📫 How to email me: jc_berkane@esi.dz
 
--->
+<h1>💻 Technical Skills</h1>
+
